@@ -1,0 +1,11 @@
+name,generic_name,manufacturer,category,dosage,form,min_temperature,max_temperature,min_humidity,max_humidity,reorder_level
+Paracetamol 500mg,Acetaminophen,GlaxoSmithKline,Analgesic / Antipyretic,500mg,Tablet,15.0,25.0,30.0,65.0,10
+Amoxicillin 500mg,Amoxicillin Trihydrate,Pfizer Inc,Antibiotic (Penicillin),500mg,Capsule,15.0,25.0,30.0,60.0,15
+Cetirizine 10mg,Cetirizine Hydrochloride,Sun Pharma,Antihistamine,10mg,Tablet,15.0,30.0,30.0,65.0,8
+Azithromycin 500mg,Azithromycin Dihydrate,Cipla Ltd,Macrolide Antibiotic,500mg,Tablet,15.0,25.0,30.0,65.0,10
+Ibuprofen 400mg,Ibuprofen,Abbott Laboratories,NSAID,400mg,Tablet,15.0,25.0,30.0,60.0,12
+Metformin 500mg,Metformin Hydrochloride,Merck KGaA,Antidiabetic,500mg,Tablet,15.0,30.0,30.0,70.0,20
+Omeprazole 20mg,Omeprazole,AstraZeneca,Proton Pump Inhibitor,20mg,Capsule,15.0,25.0,30.0,60.0,15
+Atorvastatin 20mg,Atorvastatin Calcium,Pfizer Inc,Statin / Lipid Regulating,20mg,Tablet,15.0,25.0,30.0,65.0,12
+Pantoprazole 40mg,Pantoprazole Sodium,Takeda Pharma,Proton Pump Inhibitor,40mg,Tablet,15.0,25.0,30.0,65.0,15
+Ciprofloxacin 500mg,Ciprofloxacin,Bayer Healthcare,Fluoroquinolone Antibiotic,500mg,Tablet,15.0,25.0,30.0,65.0,10
